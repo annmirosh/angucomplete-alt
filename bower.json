@@ -1,11 +1,11 @@
 {
-  "name": "angucomplete-alt",
+  "name": "angucomplete-alt-touch",
   "version": "1.1.0",
   "homepage": "http://ghiden.github.io/angucomplete-alt/",
   "authors": [
     "Hidenari Nozaki <hidenari@gmail.com>"
   ],
-  "description": "Autocomplete directive for AngularJS",
+  "description": "Autocomplete directive for AngularJS (with small fixes for touch devices)",
   "keywords": [
     "autocomplete",
     "typeahead",
