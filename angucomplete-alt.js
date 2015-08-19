@@ -1,7 +1,7 @@
 /*
  * angucomplete-alt
  * Autocomplete directive for AngularJS
- * This is a fork of Daryl Rowland's angucomplete with some extra features.
+ * This is a fork of Hidenari Nozaki's angucomplete with small fixes for touch devices.
  * By Hidenari Nozaki
  */
 
